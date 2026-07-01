@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Alisonsosa/prototiporaiza/blob/main/logo(1).png?raw=true" alt="Descripción de la imagen" width="400"/>
+</p>
 
   # PROYECTO_RAIZA
 
