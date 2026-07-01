@@ -37,5 +37,8 @@ El proyecto se llevará a cabo en el contexto digital, orientado al mercado colo
 ## Marco Teórico / Solución Propuesta
 Desarrollo e implementación de RAIZA, una plataforma e-learning que integra: módulos de aprendizaje organizados por temática y nivel, reproducción protegida de videos y PDFs sin posibilidad de descarga, sistema de pagos integrado para módulos premium, venta y entrega de kits de materiales físicos, seguimiento del progreso del estudiante y emisión automática de certificados digitales.
 
+## Figma 
+https://www.figma.com/site/9dEpGgApPxPk9YGoNa3M9R/PROYECTO-RAIZA?node-id=0-1&p=f&t=5Ha6TrjB6t4DNzJW-0
+
 
   
