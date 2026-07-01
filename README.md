@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Alisonsosa/prototiporaiza/blob/main/logo(1).png?raw=true" alt="Descripción de la imagen](https://github.com/Alisonsosa/Prototiporaiza/blob/b28db3e5091268c3bc8e5b530c4bc1fa6556accf/Logo%20(1).png)" width="400"/>
+  <img src="Logo (1).png" width="400"/>
 </p>
 
   # PROYECTO_RAIZA
